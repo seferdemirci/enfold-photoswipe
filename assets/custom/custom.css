@@ -1,0 +1,8 @@
+/* Disable default lightbox for photos */
+
+.mfp-gallery, .mfp-bg.avia-popup{
+    display: none !important;
+}
+.mfp-zoom-out-cur{
+    cursor: auto !important;
+}
